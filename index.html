@@ -6,13 +6,16 @@
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+  <!-- jQuery and JS bundle w/ Popper.js -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 
 </head>
 
 
-<body>
+<body id="body">
 <!-- Navigation bar -->
-<div class="nabvar">
+<div class="">
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">About Us</a>
@@ -25,18 +28,16 @@
         <li class="nav-item active">
           <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Anonymous Reporting</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Dropdown
+            Report a Case
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Law Enforcement</a>
-            <a class="dropdown-item" href="#">Social Worker</a>
+            <a class="dropdown-item" href="law.html">Law Enforcement</a>
+            <a class="dropdown-item" href="socialW.html">Social Worker</a>
+            <a class="dropdown-item" href="parents.html">Parent's Portal</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Parent's Portal</a>
+            <a class="dropdown-item" href="anonymous.html">Anonymous Reporting</a>
           </div>
         </li>
         <li class="nav-item">
