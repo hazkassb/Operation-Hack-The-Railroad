@@ -8,7 +8,7 @@ Our Team:
 * Hamza Kassomou
 * Phiwat Klomkaew
 * Rich Asay (Mentor)
-* Kyanie Waters (Mentor Assistant)
+* Kyanie Waters (Co-Mentor)
 
 
 Our Mission:
@@ -20,12 +20,12 @@ https://hazkassb.github.io/Operation-Hack-The-Railroad/dist/index.html
 
 
 
-Ressources/data used:
-https://humantraffickingsearch.org/faqs-about-human-trafficking/?gclid=Cj0KCQiA7qP9BRCLARIsABDaZzjJMyfTwlys8eXyTJW5D7AM80f14LoW661ISPUQZw2RL1hM9MWMsrkaAsFfEALw_wcB
-https://humantraffickinghotline.org/state/georgia
-http://doas.ga.gov/human-resources-administration/human-trafficking-awareness/trafficking-in-georgia
-https://law.georgia.gov/key-issues/human-trafficking
-https://www.state.gov/reports/2019-trafficking-in-persons-report-2/georgia/
+Resources/data used:
+* https://humantraffickingsearch.org/faqs-about-human-trafficking/?gclid=Cj0KCQiA7qP9BRCLARIsABDaZzjJMyfTwlys8eXyTJW5D7AM80f14LoW661ISPUQZw2RL1hM9MWMsrkaAsFfEALw_wcB
+* https://humantraffickinghotline.org/state/georgia
+* http://doas.ga.gov/human-resources-administration/human-trafficking-awareness/trafficking-in-georgia
+* https://law.georgia.gov/key-issues/human-trafficking
+* https://www.state.gov/reports/2019-trafficking-in-persons-report-2/georgia/
 
 
 
