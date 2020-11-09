@@ -19,6 +19,12 @@ Link to Our Website:
 https://hazkassb.github.io/Operation-Hack-The-Railroad/dist/index.html
 
 
+Link to Jupyter notebook:
+* Heat Map --> https://colab.research.google.com/github/hazkassb/Operation-Hack-The-Railroad/blob/master/fbi_cases_heatmap.ipynb
+* City Crime Rates --> https://colab.research.google.com/github/hazkassb/Operation-Hack-The-Railroad/blob/master/Crimegraphs_GAcities.ipynb
+
+
+
 
 Resources/data used:
 * https://humantraffickingsearch.org/faqs-about-human-trafficking/?gclid=Cj0KCQiA7qP9BRCLARIsABDaZzjJMyfTwlys8eXyTJW5D7AM80f14LoW661ISPUQZw2RL1hM9MWMsrkaAsFfEALw_wcB
